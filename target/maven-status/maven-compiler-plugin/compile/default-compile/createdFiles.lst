@@ -1,0 +1,9 @@
+locators/ShopPageConstants.class
+locators/RegisterPageConstants.class
+pages/ShopPage.class
+pages/HomePage.class
+pages/BasePage.class
+pages/SmartphoneCategoryPage.class
+locators/HomePageConstants.class
+pages/RegisterPage.class
+locators/SmartphoneCategoryPageConstants.class
